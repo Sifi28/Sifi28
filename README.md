@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sifi28
+- 👀 I’m interested in ... C# , .net a little bit about video editting and photo editting.
+- 🌱 I’m currently learning ... Angular
